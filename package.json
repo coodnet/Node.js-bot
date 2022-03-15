@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "node-telegram-bot-api": "^0.55.0",
+    "nodemon": "^2.0.15"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "MySelf Bot",
+  "main": "Bot.js",
+  "scripts": {
+    "start": "node Bot.js" ,
+    "dev": "nodemon Bot.js"
+  },
+  "author": "Raimov NurMuhammad",
+  "license": "ISC"
+}
